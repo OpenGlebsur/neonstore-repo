@@ -1,11 +1,11 @@
 # Apps for neonstore
 
 uploaded
-rewindows tasks 
-rewindowssearch
+- rewindowstasks 
+ -rewindowssearch
 
 in peding
-ReWinStore clicker
-caelus
-OldXboxGames
-8Store Patched
+- ReWinStore clicker
+- caelus
+- OldXboxGames
+- 8Store Patched

@@ -2,7 +2,7 @@
 
 uploaded
 - rewindowstasks 
- -rewindowssearch
+- rewindowssearch
 
 in progress
 - ReWinStore clicker
